@@ -32,3 +32,7 @@ nav {
   top: 0;
   right: 0;
 }
+
+.input-label:not(:first-child) {
+  margin-left: 30px;
+}
