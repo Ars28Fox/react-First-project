@@ -6,8 +6,6 @@ commands:
 
 [Project link](https://ars28fox.github.io/react-First-project/)
 
-https://ars28fox.github.io/TexTerraTest/
-
 Выполнено с помощью стандартного create-react-app
 
 В ходе тестового задания было реализовано:
